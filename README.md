@@ -1,4 +1,4 @@
-# Stop-Sending-Noods
+# No-More-Noods
 
 An arcade style noodle-themed game built using React and Web APIs.
 
@@ -6,13 +6,14 @@ In a world taken over by flying noods, what can you do?
 Dodge! Dodge! Dodge!
 How long can you survive?
 
-Stop Sending Noods was created with Annie Ng and Bruna Garcias for a 1-Day Hackathon.
+Stop Sending Noods was created with Eugene Yu and Bruna Garcias for a 1-Day Hackathon.
 
 ## My roles include the following:
++ all frontend work
++ ui/ux design of game
++ game state management and user/gameplay flow
++ ui considerations
 + gameplay animations
-+ enemy generation & movement
-+ player movement
-+ player & enemy encounter calculations
 
 ## Demo
 <kbd align="center">
